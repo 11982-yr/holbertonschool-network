@@ -6,4 +6,4 @@
 
 ## Diagram
 
-<img width="1172" height="2780" alt="mermaid-diagram-2026-05-04-145746" src="https://github.com/user-attachments/assets/3a9a90d3-a56b-4a7e-8931-bb6e67b2284b" />
+<img width="3056" height="326" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/6d529162-ebfa-4af6-bd70-2b48c49d9868" />
